@@ -15,8 +15,7 @@ Follow this [tutorial](https://www.cherryservers.com/blog/install-prometheus-ubu
 Follow this [tutorial](https://www.linode.com/docs/guides/how-to-install-prometheus-and-grafana-on-ubuntu/#how-to-install-and-deploy-the-grafana-server)
 
 ###  Graph of total http requests to localhost:3100/
-![Alt text](./http_request_total.png)
-
+![Alt text](./graphs/http_request_total.png)
 
 ### References 
 
