@@ -34,7 +34,7 @@ func main() {
 	// Prometheus endpoint
 	http.Handle("/prometheus", promhttp.Handler())
 	
-	fmt.Println("Serving requests on port 3000")
-	err := http.ListenAndServe(":3000", nil)
+	fmt.Println("Serving requests on port 3100")
+	err := http.ListenAndServe(":3100", nil)
 	log.Fatal(err)
 }
